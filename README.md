@@ -1,2 +1,2 @@
-# StockPricePredictor
-stock price predictor
+# DataScience
+Consists of data science projects
